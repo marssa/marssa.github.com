@@ -1,7 +1,7 @@
 marssa.github.com
 =================
 
-The source code of http://twitter.github.com/
+The source code of http://marssa.github.com/
 
 Adapted from twitter.github.com and h5bp.github.com
 
